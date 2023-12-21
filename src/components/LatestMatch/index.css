@@ -1,0 +1,35 @@
+.latest_div {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+
+  margin: auto;
+}
+
+@media (orientation: portrait) {
+  .latest_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+}
+.rival_team_logo {
+  width: 25%;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+p {
+  color: white;
+  margin: 10px;
+}
+.team_left {
+  text-align: left;
+}
+.team_right {
+  text-align: right;
+}

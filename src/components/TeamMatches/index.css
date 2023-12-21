@@ -1,0 +1,25 @@
+.top_image {
+  width: 60%;
+
+  text-align: center;
+}
+.team_match_div {
+  padding: 50px;
+  padding-top: 20px;
+  text-align: center;
+  background-color: red;
+}
+.un_list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.loader_1 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

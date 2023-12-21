@@ -1,0 +1,18 @@
+.mini_tab_logo {
+  width: 30%;
+}
+.min_tab {
+  background-color: #1e293b;
+  height: 300px;
+  width: 200px;
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.min_tab p,
+h3 {
+  color: white;
+}

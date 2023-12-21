@@ -1,0 +1,26 @@
+.list_item {
+  border: 2px solid white;
+  width: 300px;
+  height: 130px;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 10px;
+  align-items: center;
+  background-color: rgba(255, 251, 251, 0.169);
+}
+.team_logo {
+  width: 50px;
+}
+.team_div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  opacity: 1;
+  align-items: center;
+}
+.team_div h3 {
+  color: white;
+}
